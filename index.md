@@ -20,7 +20,8 @@ layout: homepage
   <br>
   Economics, Political Science
   <br>
-  Phi Beta Kappa, <i>Summa Cum Laude<i>, University Honors
+  Phi Beta Kappa, _Summa Cum Laude_, University Honors
+  <br>
   2017
 
 ## Employment
