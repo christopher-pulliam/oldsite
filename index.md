@@ -42,21 +42,21 @@ layout: homepage
 
 ### Reports (selected)
 
-- **Stuck on the Ladder: Intragenerational Wealth Mobility in the United States**
+- **[Stuck on the Ladder: Intragenerational Wealth Mobility in the United States](https://www.brookings.edu/research/stuck-on-the-ladder-intragenerational-wealth-mobility-in-the-united-states/)**
   <br>
   Ariel Gelrud Shiro, **Christopher Pulliam**, John Sabelhaus, Ember Smith
   <br>
   Brookings Institution, 2022
   <br>
-  [[PDF](https://www.brookings.edu/research/stuck-on-the-ladder-intragenerational-wealth-mobility-in-the-united-states/)] [[Blog 1](https://www.brookings.edu/blog/up-front/2022/06/29/the-black-white-gap-in-wealth-mobility-and-what-to-do-about-it/)] [[Blog 2](https://www.brookings.edu/blog/up-front/2022/06/29/stuck-on-the-ladder-wealth-mobility-is-low-and-decreases-with-age/)] 
+  [[PDF](https://www.brookings.edu/wp-content/uploads/2022/06/2022_FMCI_IntragenerationalWealthMobility_FINAL.pdf)] [[Blog 1](https://www.brookings.edu/blog/up-front/2022/06/29/the-black-white-gap-in-wealth-mobility-and-what-to-do-about-it/)] [[Blog 2](https://www.brookings.edu/blog/up-front/2022/06/29/stuck-on-the-ladder-wealth-mobility-is-low-and-decreases-with-age/)] 
 
-- **Taxing Business Incomes: Evidence from the Survey of Consumer Finances**
+- **[Taxing Business Incomes: Evidence from the Survey of Consumer Finances](https://www.brookings.edu/research/taxing-business-incomes-evidence-from-the-survey-of-consumer-finances/)**
   <br>
   William G. Gale, Swati Joshi, **Christopher Pulliam**, John Sabelhaus
   <br>
   Brookings Institution, 2022
   <br>
-  [[PDF](https://www.brookings.edu/research/taxing-business-incomes-evidence-from-the-survey-of-consumer-finances/)] 
+  [[PDF](https://www.brookings.edu/wp-content/uploads/2022/01/20220223_TPC_TaxingBusinessIncome_Report_Final.pdf)] 
 
 - **Simulating Income Tax Liabilities in the Survey of Consumer Finances**
   <br>
@@ -64,25 +64,54 @@ layout: homepage
   <br>
   Brookings Institution, 2022
   <br>
-  [[PDF](https://www.brookings.edu/research/simulating-income-tax-liabilities-in-the-survey-of-consumer-finances/)]
+  [[Paper](https://www.brookings.edu/research/simulating-income-tax-liabilities-in-the-survey-of-consumer-finances/)]
+  
+- **Small Retirement Accounts: Issues and Options**
+  <br>
+  David C. Johm, J. Mark Iwry, **Christopher Pulliam**, William G. Gale
+  <br>
+  Brookings Institution, 2021
+  <br>
+  [[Paper](https://www.brookings.edu/research/small-retirement-accounts-issues-and-options/)]
+  
+- **Collective Defined Contribution Plans**
+  <br>
+  J. Mark Iwry, David C. John, **Christopher Pulliam**, William G. Gale
+  <br>
+  Brookings Institution, 2021
+  <br>
+  [[Paper](https://www.brookings.edu/research/collective-defined-contribution-plans/)]
+  
+- **Long Shadows: The Black-White Gap in Multigenerational Poverty**
+  <br>
+  Scott Winship, **Christopher Pulliam**, Ariel Gelrud Shiro, Richard V. Reeves, Santiago Deambrosi
+  <br>
+  Brookings Institution/American Enterprise Institute, 2021
+  <br>
+  [[Paper](https://www.brookings.edu/research/long-shadows-the-black-white-gap-in-multigenerational-poverty/)]
+  
+- **Taxing Wealth Transfers Through an Expanded Estate Tax**
+  <br>
+  William G. Gale, **Christopher Pulliam**, John Sabelhaus, Isabel V. Sawhill
+  <br>
+  Brookings Institution, 2020
+  <br>
+  [[Paper](https://www.brookings.edu/research/taxing-wealth-transfers-through-an-expanded-estate-tax/)]
+  
 
 ### Op-Eds (selected)
 
-- **End welfare as we know it - for the upper middle class**
+- **[End welfare as we know it - for the upper middle class](https://www.washingtonpost.com/opinions/2021/04/22/end-welfare-we-know-it-upper-middle-class/)**
   <br>
   Richard V. Reeves, **Christopher Pulliam**
   <br>
   _The Washington Post_, 2021
-  <br>
-  [[Link](https://www.washingtonpost.com/opinions/2021/04/22/end-welfare-we-know-it-upper-middle-class/)]
   
-- **The Tax Cut for the Rich That Democrats Love**
+- **[The Tax Cut for the Rich That Democrats Love](https://www.nytimes.com/2020/09/07/opinion/salt-tax-deduction-cut.html)**
   <br>
   Richard V. Reeves, **Christopher Pulliam**
   <br>
   _The New York Times_, 2020
-  <br>
-  [[Link](https://www.nytimes.com/2020/09/07/opinion/salt-tax-deduction-cut.html)]
   
 ## Awards
 - National Science Foundation, Graduate Research Fellowship, 2022
