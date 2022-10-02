@@ -2,14 +2,20 @@
 layout: homepage
 ---
 
-## About Me
+## Education
 
-I am a Ph.D. student at Columbia
+Ph.D. Columbia University School of Social Work 2022-present
+  Social Policy & Policy Analysis, Economics
+  
+M.P.A. Maxwell School of Citizenship and Public Affairs, Syracuse University 2018
+  Social Policy
+  
+B.A. Syracuse University 2017
+  Economics & Political Science
+    Phi Beta Kappa, _Summa Cum Laude_, University Honors 
 
 ## Research Interests
-
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- Intergenerational mobility, social safety net, poverty, public economics, labor economics
 
 ## News
 
