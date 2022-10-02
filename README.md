@@ -87,9 +87,9 @@ The Minimal Light theme will respect the following variables, if set in your sit
 
   ```yaml
 # Basic Information 
-title: Your Name
+title: Christopher L. Pulliam
 position: Ph.D. Student
-affiliation: Your Affiliation
+affiliation: Columbia University
 email: yourname (at) example.edu
 
 # Search Engine Optimization (SEO)
