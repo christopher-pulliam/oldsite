@@ -16,11 +16,11 @@ layout: homepage
   <br>
   2018
   
-- B.A. Syracuse University
+- **B.A. Syracuse University**
   <br>
   Economics, Political Science
   <br>
-  Phi Beta Kappa, _Summa Cum Laude_, University Honors
+  Phi Beta Kappa, _*Summa Cum Laude*_, University Honors CHECK
   <br>
   2017
 
