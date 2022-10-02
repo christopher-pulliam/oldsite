@@ -6,7 +6,7 @@ layout: homepage
 
 - **Ph.D. Columbia University School of Social Work**
   <br>
-  *Social Policy & Policy Analysis, Economics*
+  Social Policy & Policy Analysis, Economics
   <br>
   2022-present
   
@@ -20,7 +20,7 @@ layout: homepage
   <br>
   Economics, Political Science
   <br>
-  Phi Beta Kappa, *Summa Cum Laude*, University Honors
+  Phi Beta Kappa, <i>Summa Cum Laude<i>, University Honors
   2017
 
 ## Employment
