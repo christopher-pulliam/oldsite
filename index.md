@@ -64,6 +64,24 @@ layout: homepage
   <br>
   [[PDF](https://www.brookings.edu/research/simulating-income-tax-liabilities-in-the-survey-of-consumer-finances/)]
 
+## Op-Eds (selected)
+
+- **End welfare as we know it - for the upper middle class**
+  <br>
+  Richard V. Reeves, **Christopher Pulliam**
+  <br>
+  _The Washington Post_, 2021
+  <br>
+  [[Link](https://www.washingtonpost.com/opinions/2021/04/22/end-welfare-we-know-it-upper-middle-class/)]
+  
+- **The Tax Cut for the Rich That Democrats Love**
+  <br>
+  Richard V. Reeves, **Christopher Pulliam**
+  <br>
+  _The New York Times_, 2020
+  <br>
+  [[Link](https://www.nytimes.com/2020/09/07/opinion/salt-tax-deduction-cut.html)]
+  
 ## Awards
 - National Science Foundation, Graduate Research Fellowship, 2022
   <br>
