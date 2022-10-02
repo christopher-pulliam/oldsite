@@ -4,15 +4,15 @@ layout: homepage
 
 ## Education
 
--Ph.D. Columbia University School of Social Work 2022-present
-  -Social Policy & Policy Analysis, Economics
+Ph.D. Columbia University School of Social Work 2022-present
+  nbsp Social Policy & Policy Analysis, Economics
   
--M.P.A. Maxwell School of Citizenship and Public Affairs, Syracuse University 2018
-  -Social Policy
+M.P.A. Maxwell School of Citizenship and Public Affairs, Syracuse University 2018
+  nbsp Social Policy
   
 -B.A. Syracuse University 2017
-  -Economics & Political Science
-    -Phi Beta Kappa, *Summa Cum Laude*, University Honors 
+  nbsp Economics & Political Science
+    ensp Phi Beta Kappa, *Summa Cum Laude*, University Honors 
 
 ## Research Interests
 - Intergenerational mobility, social safety net, poverty, public economics, labor economics
