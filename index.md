@@ -1,24 +1,12 @@
 ---
 layout: homepage
 ---
-## Employment
-- **Columbia University School of Social Work**
-  <br>
-  Graduate Research Assistant, 2022-present
-
-
-
-- **Brookings Institution, Economic Studies**
-  <br>
-  Research Analyst, 2019-2022
-  <br> 
-  Research Assistant, 2018-2019
 
 ## Education
 
 - **Ph.D. Columbia University School of Social Work**
   <br>
-  Social Policy & Policy Analysis
+  Social Policy & Policy Analysis, Economics
   <br>
   2022-present
   
@@ -34,6 +22,16 @@ layout: homepage
   <br>
   Phi Beta Kappa, *Summa Cum Laude*, University Honors
 
+## Employment
+- **Columbia University School of Social Work**
+  <br>
+  Graduate Research Assistant, 2022-present
+
+- **Brookings Institution, Economic Studies**
+  <br>
+  Research Analyst, 2019-2022
+  <br> 
+  Research Assistant, 2018-2019
 
 ## Research Interests
 - Intergenerational mobility, social safety net, poverty, public economics, labor economics
