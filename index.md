@@ -20,7 +20,8 @@ layout: homepage
   <br>
   Economics, Political Science
   <br>
-  Phi Beta Kappa, *Summa Cum Laude*, University Honors
+  Phi Beta Kappa, _Summa Cum Laude_, University Honors
+  2017
 
 ## Employment
 - **Columbia University School of Social Work**
