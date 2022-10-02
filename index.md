@@ -38,7 +38,9 @@ layout: homepage
 ## Research Interests
 - Intergenerational mobility, social safety net, poverty, public economics, labor economics
 
-## Publications (selected)
+## Publications
+
+### Reports (selected)
 
 - **Stuck on the Ladder: Intragenerational Wealth Mobility in the United States**
   <br>
@@ -64,7 +66,7 @@ layout: homepage
   <br>
   [[PDF](https://www.brookings.edu/research/simulating-income-tax-liabilities-in-the-survey-of-consumer-finances/)]
 
-## Op-Eds (selected)
+### Op-Eds (selected)
 
 - **End welfare as we know it - for the upper middle class**
   <br>
