@@ -20,7 +20,7 @@ layout: homepage
   <br>
   Economics, Political Science
   <br>
-  Phi Beta Kappa, _*Summa Cum Laude*_, University Honors CHECK
+  Phi Beta Kappa, Summa Cum Laude, University Honors
   <br>
   2017
 
