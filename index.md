@@ -105,7 +105,7 @@ layout: homepage
   <br>
   Richard V. Reeves, **Christopher Pulliam**
   <br>
-  _The Washington Post_, 2021
+  *The Washington Post*, 2021
   
 - **[The Tax Cut for the Rich That Democrats Love](https://www.nytimes.com/2020/09/07/opinion/salt-tax-deduction-cut.html)**
   <br>
