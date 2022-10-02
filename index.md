@@ -1,18 +1,38 @@
 ---
 layout: homepage
 ---
+## Employment
+- **Columbia University School of Social Work**
+  <br>
+  Graduate Research Assistant, 2022-present
+
+
+
+- **Brookings Institution, Economic Studies**
+  <br>
+  Research Analyst, 2019-2022
+  <br> 
+  Research Assistant, 2018-2019
 
 ## Education
 
-Ph.D. Columbia University School of Social Work                         2022-present
-  Social Policy & Policy Analysis, Economics
+- **Ph.D. Columbia University School of Social Work**
+  <br>
+  Social Policy & Policy Analysis
+  <br>
+  2022-present
   
-M.P.A. Maxwell School of Citizenship and Public Affairs, Syracuse University    2018
+- **M.P.A. Maxwell School of Citizenship and Public Affairs**
+  <br>
   Social Policy
+  <br>
+  2018
   
-B.A. Syracuse University                                                        2017
-  Economics & Political Science
-    Phi Beta Kappa, <i>Summa Cum Laude<i>, University Honors 
+- **B.A. Syracuse University**
+  <br>
+  Economics, Political Science
+  <br>
+  Phi Beta Kappa, *Summa Cum Laude*, University Honors
 
 
 ## Research Interests
@@ -20,7 +40,7 @@ B.A. Syracuse University                                                        
 
 ## Publications (selected)
 
-- **Stuck on the Ladder: Intragenerational wealth mobility in the United States**
+- **Stuck on the Ladder: Intragenerational Wealth Mobility in the United States**
   <br>
   Ariel Gelrud Shiro, **Christopher Pulliam**, John Sabelhaus, Ember Smith
   <br>
