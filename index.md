@@ -16,7 +16,7 @@ layout: homepage
   <br>
   2018
   
-- **B.A. Syracuse University**
+- B.A. Syracuse University
   <br>
   Economics, Political Science
   <br>
