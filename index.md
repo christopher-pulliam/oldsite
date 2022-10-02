@@ -9,7 +9,7 @@ email: yourname (at) example.edu
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Ph.D. student at Columbia
 
 ## Research Interests
 
