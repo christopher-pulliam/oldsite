@@ -10,7 +10,7 @@ layout: homepage
   <br>
   2022-present
   
-- **M.P.A. Maxwell School of Citizenship and Public Affairs**
+- **M.P.A. Maxwell School of Citizenship and Public Affairs, Syracuse University**
   <br>
   Social Policy
   <br>
@@ -61,7 +61,11 @@ layout: homepage
   Brookings Institution, 2022
   <br>
   [[PDF](https://www.brookings.edu/research/simulating-income-tax-liabilities-in-the-survey-of-consumer-finances/)]
-## Services
 
-- Conference Reviewers: NeurIPS 2020, CVPR 2020.
-- Journal Reviewers: T-PAMI, IJCV.
+## Awards
+- National Science Foundation, Graduate Research Fellowship, 2022
+  <br>
+  $138,000 (declined)
+  
+## Conference Presentations
+- National Tax Association (2019), American Political Science Association (2019)
