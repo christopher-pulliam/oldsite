@@ -1,6 +1,11 @@
 ---
 layout: homepage
 ---
+# Basic Information 
+title: Christopher L. Pulliam
+position: Ph.D. Student
+affiliation: Columbia University
+email: yourname (at) example.edu
 
 ## About Me
 
