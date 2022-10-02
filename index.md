@@ -57,39 +57,39 @@ layout: homepage
   <br>
   Brookings Institution, 2022
   <br>
-  [[PDF](https://www.brookings.edu/wp-content/uploads/2022/01/20220223_TPC_TaxingBusinessIncome_Report_Final.pdf)] 
+  [[PDF](https://www.brookings.edu/wp-content/uploads/2022/01/20220223_TPC_TaxingBusinessIncome_Report_Final.pdf)] [[Policy Brief](https://www.brookings.edu/wp-content/uploads/2022/01/20220223_TPC_TaxingBusinessIncome_PolicyBrief_Final.pdf)]
 
-- **Simulating Income Tax Liabilities in the Survey of Consumer Finances**
+- **[Simulating Income Tax Liabilities in the Survey of Consumer Finances](https://www.brookings.edu/research/simulating-income-tax-liabilities-in-the-survey-of-consumer-finances/)**
   <br>
   William G. Gale, Swati Joshi, **Christopher Pulliam**, John Sabelhaus
   <br>
   Brookings Institution, 2022
   <br>
-  [[Paper](https://www.brookings.edu/research/simulating-income-tax-liabilities-in-the-survey-of-consumer-finances/)]
+  [[PDF](https://www.brookings.edu/wp-content/uploads/2022/01/20220216_TPC_SimulatingLiability_Report_Final.pdf)] [[Policy Brief](https://www.brookings.edu/wp-content/uploads/2022/01/20220216_TPC_SimulatingLiability_PolicyBrief_Final.pdf)] [[Data](https://www.brookings.edu/wp-content/uploads/2022/01/scf.taxsim.zip)]
   
-- **Small Retirement Accounts: Issues and Options**
+- **[Small Retirement Accounts: Issues and Options](https://www.brookings.edu/research/small-retirement-accounts-issues-and-options/)**
   <br>
   David C. Johm, J. Mark Iwry, **Christopher Pulliam**, William G. Gale
   <br>
   Brookings Institution, 2021
   <br>
-  [[Paper](https://www.brookings.edu/research/small-retirement-accounts-issues-and-options/)]
+  [[PDF](https://www.brookings.edu/wp-content/uploads/2021/09/20211123_SmallAccountFinal.pdf)] [[Policy Brief](https://www.brookings.edu/wp-content/uploads/2021/09/20211123_SmallAccountPolicyBrief.pdf)]
   
-- **Collective Defined Contribution Plans**
+- **[Collective Defined Contribution Plans](https://www.brookings.edu/research/collective-defined-contribution-plans/)**
   <br>
   J. Mark Iwry, David C. John, **Christopher Pulliam**, William G. Gale
   <br>
   Brookings Institution, 2021
   <br>
-  [[Paper](https://www.brookings.edu/research/collective-defined-contribution-plans/)]
+  [[PDF](https://www.brookings.edu/wp-content/uploads/2021/09/20211203_RSP_CDC-final-paper-layout.pdf)] [[Policy Brief](https://www.brookings.edu/wp-content/uploads/2021/09/20211203_RSP_CDC-PB-final-layout.pdf)]
   
-- **Long Shadows: The Black-White Gap in Multigenerational Poverty**
+- **[Long Shadows: The Black-White Gap in Multigenerational Poverty](https://www.brookings.edu/research/long-shadows-the-black-white-gap-in-multigenerational-poverty/)**
   <br>
   Scott Winship, **Christopher Pulliam**, Ariel Gelrud Shiro, Richard V. Reeves, Santiago Deambrosi
   <br>
   Brookings Institution/American Enterprise Institute, 2021
   <br>
-  [[Paper](https://www.brookings.edu/research/long-shadows-the-black-white-gap-in-multigenerational-poverty/)]
+  [[PDF](https://www.brookings.edu/wp-content/uploads/2021/06/Long-Shadows_Final.pdf)]
   
 - **Taxing Wealth Transfers Through an Expanded Estate Tax**
   <br>
