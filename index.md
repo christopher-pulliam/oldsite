@@ -116,9 +116,9 @@ layout: homepage
 ## Awards
 - National Science Foundation - Graduate Research Fellowship, Public Policy 
   <br>
-  2022
-  <br>
   $138,000 (declined)
+  <br>
+  2022
   
 ## Conference Presentations
 - National Tax Association (2019), American Political Science Association (2019)
