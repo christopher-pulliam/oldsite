@@ -35,6 +35,8 @@ layout: homepage
   Research Analyst, 2019-2022
   <br> 
   Research Assistant, 2018-2019
+  <br>
+  [[Author page](https://www.brookings.edu/author/christopher-pulliam/)]
 
 ## Research Interests
 - Intergenerational mobility, social safety net, poverty, public economics, labor economics
