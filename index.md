@@ -114,7 +114,9 @@ layout: homepage
   *The New York Times*, 2020
   
 ## Awards
-- National Science Foundation, Graduate Research Fellowship, 2022
+- National Science Foundation - Graduate Research Fellowship, Public Policy 
+  <br>
+  2022
   <br>
   $138,000 (declined)
   
