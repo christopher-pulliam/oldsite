@@ -47,7 +47,7 @@ layout: homepage
   <br>
   Ariel Gelrud Shiro, **Christopher Pulliam**, John Sabelhaus, Ember Smith
   <br>
-  Brookings Institution, 2022
+  *Brookings Institution*, 2022
   <br>
   [[PDF](https://www.brookings.edu/wp-content/uploads/2022/06/2022_FMCI_IntragenerationalWealthMobility_FINAL.pdf)] [[Blog 1](https://www.brookings.edu/blog/up-front/2022/06/29/the-black-white-gap-in-wealth-mobility-and-what-to-do-about-it/)] [[Blog 2](https://www.brookings.edu/blog/up-front/2022/06/29/stuck-on-the-ladder-wealth-mobility-is-low-and-decreases-with-age/)] 
 
@@ -55,7 +55,7 @@ layout: homepage
   <br>
   William G. Gale, Swati Joshi, **Christopher Pulliam**, John Sabelhaus
   <br>
-  Brookings Institution, 2022
+  *Brookings Institution*, 2022
   <br>
   [[PDF](https://www.brookings.edu/wp-content/uploads/2022/01/20220223_TPC_TaxingBusinessIncome_Report_Final.pdf)] [[Policy Brief](https://www.brookings.edu/wp-content/uploads/2022/01/20220223_TPC_TaxingBusinessIncome_PolicyBrief_Final.pdf)]
 
@@ -63,7 +63,7 @@ layout: homepage
   <br>
   William G. Gale, Swati Joshi, **Christopher Pulliam**, John Sabelhaus
   <br>
-  Brookings Institution, 2022
+  *Brookings Institution*, 2022
   <br>
   [[PDF](https://www.brookings.edu/wp-content/uploads/2022/01/20220216_TPC_SimulatingLiability_Report_Final.pdf)] [[Policy Brief](https://www.brookings.edu/wp-content/uploads/2022/01/20220216_TPC_SimulatingLiability_PolicyBrief_Final.pdf)] [[Data](https://www.brookings.edu/wp-content/uploads/2022/01/scf.taxsim.zip)]
   
@@ -71,7 +71,7 @@ layout: homepage
   <br>
   David C. Johm, J. Mark Iwry, **Christopher Pulliam**, William G. Gale
   <br>
-  Brookings Institution, 2021
+  *Brookings Institution*, 2021
   <br>
   [[PDF](https://www.brookings.edu/wp-content/uploads/2021/09/20211123_SmallAccountFinal.pdf)] [[Policy Brief](https://www.brookings.edu/wp-content/uploads/2021/09/20211123_SmallAccountPolicyBrief.pdf)]
   
@@ -79,7 +79,7 @@ layout: homepage
   <br>
   J. Mark Iwry, David C. John, **Christopher Pulliam**, William G. Gale
   <br>
-  Brookings Institution, 2021
+  *Brookings Institution*, 2021
   <br>
   [[PDF](https://www.brookings.edu/wp-content/uploads/2021/09/20211203_RSP_CDC-final-paper-layout.pdf)] [[Policy Brief](https://www.brookings.edu/wp-content/uploads/2021/09/20211203_RSP_CDC-PB-final-layout.pdf)]
   
@@ -87,18 +87,15 @@ layout: homepage
   <br>
   Scott Winship, **Christopher Pulliam**, Ariel Gelrud Shiro, Richard V. Reeves, Santiago Deambrosi
   <br>
-  Brookings Institution/American Enterprise Institute, 2021
+  *Brookings Institution/American Enterprise Institute*, 2021
   <br>
   [[PDF](https://www.brookings.edu/wp-content/uploads/2021/06/Long-Shadows_Final.pdf)]
   
-- **Taxing Wealth Transfers Through an Expanded Estate Tax**
+- **[Taxing Wealth Transfers Through an Expanded Estate Tax](https://www.brookings.edu/research/taxing-wealth-transfers-through-an-expanded-estate-tax/)**
   <br>
   William G. Gale, **Christopher Pulliam**, John Sabelhaus, Isabel V. Sawhill
   <br>
-  Brookings Institution, 2020
-  <br>
-  [[Paper](https://www.brookings.edu/research/taxing-wealth-transfers-through-an-expanded-estate-tax/)]
-  
+  *Brookings Institution*, 2020
 
 ### Op-Eds (selected)
 
@@ -112,7 +109,7 @@ layout: homepage
   <br>
   Richard V. Reeves, **Christopher Pulliam**
   <br>
-  _The New York Times_, 2020
+  *The New York Times*, 2020
   
 ## Awards
 - National Science Foundation, Graduate Research Fellowship, 2022
