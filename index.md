@@ -1,7 +1,7 @@
 ---
 layout: homepage
 ---
-***Site under construction***
+***Site Under Construction***
 
 ## Education
 
