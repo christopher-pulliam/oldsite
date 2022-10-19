@@ -26,7 +26,7 @@ layout: homepage
   2017
 
 ## Employment
-- **Columbia University School of Social Work**
+- **Center on Poverty and Social Policy, Columbia University School of Social Work**
   <br>
   Graduate Research Assistant, 2022-present
 
