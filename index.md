@@ -113,6 +113,32 @@ layout: homepage
   <br>
   *The New York Times*, 2020
   
+### Short Policy Papers (selected)
+
+- **[How Dems can get out of the SALT mess and save $1 trillion](https://www.brookings.edu/blog/up-front/2021/10/02/how-dems-can-get-out-of-the-salt-mess-and-save-1-trillion-dollars/)**
+<br>
+Richard V. Reeves, **Christopher Pulliam**
+<br>
+*Brookings Institution*, 2021
+
+- **[Note to Bernie: The 8 arguments for restoring the SALT deduction, and why they're all wrong](https://www.brookings.edu/blog/up-front/2021/06/24/note-to-bernie-the-8-arguments-for-restoring-the-salt-deduction-and-why-theyre-all-wrong/)**
+<br>
+Richard V. Reeves, **Christopher Pulliam**
+<br>
+*Brookings Institution*, 2021
+
+- **[New child tax credit could slah poverty now and boost social mobility later](https://www.brookings.edu/blog/up-front/2021/03/11/new-child-tax-credit-could-slash-poverty-now-and-boost-social-mobility-later/)**
+<br>
+**Christopher Pulliam**, Richard V. Reeves
+<br>
+*Brookings Institution*, 2021
+
+- **[The SALT tax deduction is a handout to the rich. It should be eliminated not expanded]**(https://www.brookings.edu/blog/up-front/2020/09/04/the-salt-tax-deduction-is-a-handout-to-the-rich-it-should-be-eliminated-not-expanded/)**
+<br>
+**Christopher Pulliam**, Richard V. Reeves
+<br>
+*Brookings Institution*, 2020
+
 ## Awards
 - National Science Foundation - Graduate Research Fellowship, Public Policy 
   <br>
