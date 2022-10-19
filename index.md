@@ -133,7 +133,7 @@ Richard V. Reeves, **Christopher Pulliam**
 <br>
 *Brookings Institution*, 2021
 
-- **[The SALT tax deduction is a handout to the rich. It should be eliminated not expanded]**(https://www.brookings.edu/blog/up-front/2020/09/04/the-salt-tax-deduction-is-a-handout-to-the-rich-it-should-be-eliminated-not-expanded/)**
+- **[The SALT tax deduction is a handout to the rich. It should be eliminated not expanded](https://www.brookings.edu/blog/up-front/2020/09/04/the-salt-tax-deduction-is-a-handout-to-the-rich-it-should-be-eliminated-not-expanded/)**
 <br>
 **Christopher Pulliam**, Richard V. Reeves
 <br>
