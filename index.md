@@ -127,7 +127,7 @@ Richard V. Reeves, **Christopher Pulliam**
 <br>
 *Brookings Institution*, 2021
 
-- **[New child tax credit could slah poverty now and boost social mobility later](https://www.brookings.edu/blog/up-front/2021/03/11/new-child-tax-credit-could-slash-poverty-now-and-boost-social-mobility-later/)**
+- **[New child tax credit could slash poverty now and boost social mobility later](https://www.brookings.edu/blog/up-front/2021/03/11/new-child-tax-credit-could-slash-poverty-now-and-boost-social-mobility-later/)**
 <br>
 **Christopher Pulliam**, Richard V. Reeves
 <br>
