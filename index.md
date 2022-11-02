@@ -1,8 +1,6 @@
 ---
 layout: homepage
 ---
-***Site under construction***
-
 ## Education
 
 - **Ph.D. Columbia University School of Social Work**
@@ -26,7 +24,7 @@ layout: homepage
   2017
 
 ## Employment
-- **Center on Poverty and Social Policy, Columbia University School of Social Work**
+- **Columbia University School of Social Work, Center on Poverty and Social Policy**
   <br>
   Graduate Research Assistant, 2022-present
 
