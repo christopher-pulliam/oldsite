@@ -145,4 +145,4 @@ Richard V. Reeves, **Christopher Pulliam**
   2022
   
 ## Conference Presentations
-- Associaiton for Public Policy Analysis and Management (2023), National Tax Association (2019), American Political Science Association (2019)
+- Association for Public Policy Analysis and Management (2023), National Tax Association (2019), American Political Science Association (2019)
